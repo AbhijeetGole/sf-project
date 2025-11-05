@@ -10,7 +10,7 @@ Do you want to deploy a set of changes, or create a self-contained application? 
 
 The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
 
-## Created by Abhijeet Gole
+## Created by Abhijeet Gole on 5th November 2025 14:25
 
 ## Read All About It
 
